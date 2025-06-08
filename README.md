@@ -27,7 +27,7 @@ Follow these steps to set up and run the project locally:
 
 ```bash
 git clone https://github.com/alimurtzaa/django-authentication.git
-cd django-authentication
+cd authproject
 ```
 
 2. **Create and activate a virtual environment:**
